@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "u:\\projects\\beyondtheframe\\beyond-the-frame-main\\unreal\\plugins\\easypausemanager\\source\\easypausemanager\\private\\easypausemanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "u:\\projects\\beyondtheframe\\beyond-the-frame-main\\unreal\\intermediate\\build\\win64\\x64\\beyondtheframeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "u:\\projects\\beyondtheframe\\beyond-the-frame-main\\unreal\\plugins\\easypausemanager\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\easypausemanager\\definitions.easypausemanager.h",
+            "u:\\projects\\beyondtheframe\\beyond-the-frame-main\\unreal\\plugins\\easypausemanager\\source\\easypausemanager\\public\\easypausemanager.h",
+            "u:\\projects\\beyondtheframe\\beyond-the-frame-main\\unreal\\plugins\\easypausemanager\\source\\easypausemanager\\public\\easypausesettings.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "u:\\projects\\beyondtheframe\\beyond-the-frame-main\\unreal\\plugins\\easypausemanager\\intermediate\\build\\win64\\unrealeditor\\inc\\easypausemanager\\uht\\easypausesettings.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagsmanager.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagsmanager.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\projects\\public\\plugindisalloweddescriptor.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\projects\\public\\versescope.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

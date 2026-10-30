@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "0.1.0",
+	"FriendlyName": "Easy Pause Manager",
+	"Description": "Reference-counted pausing. Any object can hold a GameplayTag pause reason; the game only unpauses when every reason is released.",
+	"Category": "Gameplay",
+	"CreatedBy": "Jay Badcock",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "EasyPauseManager",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsExperimentalVersion": false
+}

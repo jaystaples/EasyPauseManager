@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EasyPauseManager.cpp.obj": [
+			"EasyPauseManager.init.gen.cpp.obj",
+			"PauseManagerBlueprintLibrary.gen.cpp.obj",
+			"PauseManagerSubsystem.gen.cpp.obj",
+			"PauseReason.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"EasyPauseManager.cpp.obj",
+			"PauseManagerBlueprintLibrary.cpp.obj",
+			"PauseManagerSubsystem.cpp.obj",
+			"PauseReason.cpp.obj"
+		]
+	}
+}
